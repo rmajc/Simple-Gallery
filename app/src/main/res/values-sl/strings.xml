@@ -177,11 +177,11 @@
     <string name="toggle_file_visibility">Preklopi vidljivosat datotek</string>
 
     <!-- FAQ -->
-    <string name="faq_1_title">How can I make Simple Gallery the default device gallery?</string>
-    <string name="faq_1_text">First you have to find the currently default gallery in the Apps section of your device settings, look for a button that says something like \"Open by default\", click on it, then select \"Clear defaults\".
-        The next time you will try opening an image or video you should see an app picker, where you can select Simple Gallery and make it the default app.</string>
-    <string name="faq_2_title">I locked the app with a password, but I forgot it. What can I do?</string>
-    <string name="faq_2_text">You can solve it in 2 ways. You can either reinstall the app, or find the app in your device settings and select \"Clear data\". It will reset all your settings, it will not remove any media files.</string>
+    <string name="faq_1_title">Kako naredim Simple galerijo za privzeto aplikacijo na napravi?</string>
+    <string name="faq_1_text">Najprej morate najti trenutno privzeto aplikacijo za prikaz slik med aplikacijami v nastavitvah naprave, kjer poiščete gumb v smislu \"Odpri kot privzeto\", kliknite nanj in izberite \"Izbriši privzeto\".
+        Ko boste naslednjič želeli odpreti fotografijo ali videoposnetek, bi se moral pokazati izbirnik, v katerem lahko izberete Simple galerijo in jo določite kot privzeto aplikacijo.</string>
+    <string name="faq_2_title">Aplikacijo sem zaklenil z geslom, ki se ga ne spomnim več. Kaj lahko naredimo?</string>
+    <string name="faq_2_text">To lahko rešite na 2 načina. Lahko ali ponovno namestite aplikacijo ali pa jo poiščete v nastavitvah in kliknete \"Počisti podatke\". To bo ponastavilo vaše nastavitve, ne bo pa izbrisalo nobenih datotek.</string>
     <string name="faq_3_title">How can I make an album always appear at the top?</string>
     <string name="faq_3_text">You can long press the desired album and select the Pin icon at the actionmenu, that will pin it to the top. You can pin multiple folders too, pinned items will be sorted by the default sorting method.</string>
     <string name="faq_4_title">How can I fast-forward videos?</string>
@@ -210,34 +210,34 @@
 
     <!-- Strings displayed only on Google Playstore. Optional, but good to have -->
     <!-- Short description has to have less than 80 chars -->
-    <string name="app_short_description">A gallery for viewing photos and videos without ads.</string>
+    <string name="app_short_description">Galerija za ogled fotografij in videoposnetkov brez reklam.</string>
     <string name="app_long_description">
-        A highly customizable gallery capable of displaying many different image and video types including SVGs, RAWs, panoramic photos and videos.
+        Visoko prilagodljiva galerija, zmožna prikazovanja različnih tipov fotografij in videoposnetkov, vključno s SVGji, RAWi, panoramskimi fotografijami in videoposnetki.
 
-        It is open source, contains no ads or unnecessary permissions.
+        Temelji na odprtokodnem principu, ne vsebuje reklam in ne zahteva nepotrebnih dovoljenj.
 
-        Let\'s list some of its features worth mentioning:
-        1. Search
-        2. Slideshow
-        3. Notch support
-        4. Pinning folders to the top
-        5. Filtering media files by type
-        6. Recycle bin for easy file recovery
-        7. Fullscreen view orientation locking
-        8. Marking favorite files for easy access
-        9. Quick fullscreen media closing with down gesture
-        10. An editor for modifying images and applying filters
-        11. Password protection for protecting hidden items or the whole app
-        12. Changing the thumbnail column count with gestures or menu buttons
-        13. Customizable bottom actions at the fullscreen view for quick access
-        14. Showing extended details over fullscreen media with desired file properties
-        15. Several different ways of sorting or grouping items, both ascending and descending
-        16. Hiding folders (affects other apps too), excluding folders (affects only Simple Gallery)
+        Poglejmo nekaj glavnih funkcij vrednih omembe:
+        1. Iskanje
+        2. Diaprojekcija
+        3. Podpora za notch
+        4. Pripenjanje map na vrh
+        5. Filtriranje medijskih datotek po tipu
+        6. Koš za preprosto vračanje izbrisanih datotek
+        7. Zaklepanje orientacije zaslona v celozaslonskem načinu
+        8. Označevanje priljubljenih datotek za lažji dostop
+        9. Hitro zapiranje celozaslonskega načina z gestami
+        10. Urejevalnih slik za urejanje in apliciranje različnih filtrov
+        11. Zaščita skritih datotek ali celotne aplikacije z geslom
+        12. Spreminjanje števila stolpcev z gestami ali gumbi v meniju
+        13. Nastavljive akcije na dnu zaslona v celozaslonskem načinu
+        14. Prikaz razširjenih podrobnosti nad prikazom v celozaslonskem načinu
+        15. Različni načini razvrščanja in združevanja datotek, tako naraščajoče kot tudi padajoče
+        16. Skrivanje map (vpliva tudi na druge aplikacije), izključevanje map (vpliva zgolj na Simple galerijo)
 
-        The fingerprint permission is needed for locking either hidden item visibility, the whole app, or protecting files from being deleted.
+        Dovoljenje za prstni odtis je potrebno za zaklepanje vidljivosti skritih elementov, celotne aplikacije ali zaščito datotek pred brisanjem.
 
-        This app is just one piece of a bigger series of apps. You can find the rest of them at https://www.simplemobiletools.com
-    </string>
+        Ta aplikacija je le del večje zbirke aplikacij. Ostale lahko najdete na https://www.simplemobiletools.com
+</string>
 
     <!--
         Haven't found some strings? There's more at
