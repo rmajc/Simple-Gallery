@@ -163,7 +163,7 @@
     <string name="deep_zoomable_images">Globoko povečljive slike</string>
     <string name="show_highest_quality">Prikaži slike v največji možni kvaliteti</string>
     <string name="show_recycle_bin_last">Prikaži Koš kot zadnji element na glavnem zaslonu</string>
-    <string name="allow_down_gesture">Dovoli zapiranje celozaslonskega načina z gesto dol</string>
+    <string name="allow_down_gesture">Dovoli zapiranje celozaslonskega načina z gesto navzdol</string>
 
     <!-- Setting sections -->
     <string name="thumbnails">Sličice</string>
@@ -174,7 +174,7 @@
     <!-- Bottom actions -->
     <string name="manage_bottom_actions">Urejaj vidne akcije na dnu</string>
     <string name="toggle_favorite">Preklopi priljubljene</string>
-    <string name="toggle_file_visibility">Preklopi vidljivosat datotek</string>
+    <string name="toggle_file_visibility">Preklopi vidljivost datotek</string>
 
     <!-- FAQ -->
     <string name="faq_1_title">Kako naredim Simple galerijo za privzeto aplikacijo na napravi?</string>
